@@ -1,0 +1,7 @@
+# T - tekstura
+# F - font
+# M - muzyka
+# A - animacja
+# L - level
+# W - szerokosc okna
+# H - wysokosc okna
